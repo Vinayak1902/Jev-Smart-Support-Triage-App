@@ -1,6 +1,6 @@
 # Smart Support Triage with Jev
 
-Customer Support Triage with Jev is a lightweight customer-support demo that uses the TypeSafe Jev API to analyze incoming support tickets, route them to the right team, estimate urgency, flag refund risk, and decide when a human review is needed.
+Smart Support Triage with Jev is a lightweight customer-support demo that uses the TypeSafe Jev API to analyze incoming support tickets, route them to the right team, estimate urgency, flag refund risk, and decide when a human review is needed.
 
 The application combines structured AI classification with a simple FastAPI web interface, making it easy to demonstrate how a ticket triage system could work in a real SaaS support workflow.
 
